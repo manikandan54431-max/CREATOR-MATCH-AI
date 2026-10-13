@@ -1,0 +1,14 @@
+.admin-assignment-section{margin:34px 0 42px}
+.admin-assignment-section .admin-section-heading{margin:0 0 16px}
+.admin-assignment-section .admin-section-heading h2{font:600 25px 'Space Grotesk';margin:7px 0}
+.admin-assignment-section .admin-section-heading p{font-size:11px;color:#aaa8bd;margin:0;line-height:1.7}
+.admin-assignment-section .eyebrow{display:flex;align-items:center;gap:7px}
+.admin-assignment-form{margin:0;background:#191927}
+.admin-assignment-form label{display:flex;flex-direction:column;gap:8px;color:#d8d5e8;font-size:11px}
+.admin-assignment-form select{width:100%;min-width:0;background:#12121d;border:1px solid #ffffff20;border-radius:9px;padding:12px;color:#f5f3ff;font:inherit;outline:none}
+.admin-assignment-form select:focus-visible{border-color:#a995ff;box-shadow:0 0 0 3px #a995ff33}
+.admin-assignment-policy{display:flex;align-items:flex-start;gap:10px;padding:12px 14px;border:1px solid #a995ff33;border-radius:10px;background:#a995ff0b;color:#bab7ca;font-size:11px;line-height:1.7}
+.admin-assignment-policy svg{flex:0 0 auto;margin-top:2px;color:#c6b7ff}
+.admin-assignment-policy strong{color:#d7f36a;font-weight:600}
+.admin-assignment-status{margin:0;color:#aaa8bd;font-size:11px}
+@media(max-width:700px){.admin-assignment-section{margin:28px 0 34px}.admin-assignment-section .admin-section-heading h2{font-size:21px}}
